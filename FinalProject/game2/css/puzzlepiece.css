@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: lightgrey;
+}
+p{
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: large;
+    width: 74px;
+}
+
+footer{
+    text-align: center;
+}
